@@ -31,6 +31,6 @@ It is **not** intended as a product or commercial repository.
 
 ## Links
 
-- **Website:** [aminera.fr](https://aminera.fr)
+- **Website:** [aminera.eu](https://aminera.eu)
 - **ORCID:** [0000-0003-4042-1144](https://orcid.org/0000-0003-4042-1144)
 - **Google Scholar:** [Bogdan Tanygin – publications & citations](https://scholar.google.com.ua/citations?user=xCjS2wIAAAAJ&hl=en)
