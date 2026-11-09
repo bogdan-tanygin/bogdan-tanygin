@@ -24,10 +24,9 @@ Selected repositories in this profile reflect methodological work, research-orie
 
 ## Current activity
 
-Founder & CEO of **AMINERA (in formation)** — an industry-facing research initiative focused on translating soft-matter physics and mesoscale modeling concepts toward applied and industrial contexts in Europe.
+Founder & CEO of **AMINERA** — an industry-facing research initiative focused on translating soft-matter physics and mesoscale modeling concepts toward applied and industrial contexts in Europe.
 
-This GitHub profile is intended to document research-related code and methodological work.  
-It is **not** intended as a product or commercial repository.
+This GitHub profile is intended to document research-related code and methodological work.
 
 ## Links
 
